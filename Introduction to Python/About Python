@@ -9,3 +9,5 @@ It is one where the instructions are not directly executed by the target machine
 *Features Of python :
 ->Cross platform compatible : Python code written in on one operating system can run on other Python installed operating systems too which is also konwn as platform 
 independent.
+->Ineractive : Python can be easily understood by the users as it is easily readable.
+->Open Source : Python code is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit.
