@@ -1,0 +1,11 @@
+* Python is both structural and object oriented programming language.
+->Structural Programming : It is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive 
+use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), and block structures.
+->Object Oriented Programming : It is a programming paradigm based on the concept of "objects", which can contain data and code. Data in the form of 
+fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).
+* Python is an interpreted language.
+->Intepreted Language : An interpreted language is a programming language which are generally interpreted, without compiling a program into machine instructions.
+It is one where the instructions are not directly executed by the target machine, but instead read and executed by some other program
+*Features Of python :
+->Cross platform compatible : Python code written in on one operating system can run on other Python installed operating systems too which is also konwn as platform 
+independent.
