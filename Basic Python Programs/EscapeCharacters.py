@@ -20,3 +20,9 @@ several \
 lines"
 #output : This string has been split over several lines
 
+# using 'r' -> raw string
+print("c:\\users\\dhruva\\notes.txt")
+print(r"c:\users\dhruva\notes.txt")
+"""output : c:\users\dhruva\notes.txt
+c:\users\dhruva\notes.txt"""
+
