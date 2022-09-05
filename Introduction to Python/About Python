@@ -11,3 +11,5 @@ It is one where the instructions are not directly executed by the target machine
 independent.
 ->Ineractive : Python can be easily understood by the users as it is easily readable.
 ->Open Source : Python code is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit.
+*Disadvantages of Python:
+Due to interpreted language, python is slower than compiled languages like java,c,c++ etc.,
