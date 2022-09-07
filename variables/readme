@@ -1,0 +1,24 @@
+A variable is a named location used to store data in the memory.
+Variable is a container that holds data that can be changed later in the program.
+A variable is a named place in the memory where a programmer can store data and later retrieve the data using variable "name".
+In Python, we do not have to explicitly define the variable type like C.
+Ex :- In C,
+      int x; //To declare a variable
+      x = 5; //To define a variable
+      But in Python,
+      x = 5 #No need to declare the type of variable, Python automatically recognizes what type of data is assigned.
+
+Rules for variable names :-
+->Python variables must begin with letter(upper case or lower case) or an underscore(_).
+Ex :- greet = "hi"
+      num = 33
+      _num = 24
+->They can contain letters, numbers or _ but cannot begin with a number.
+Ex :- 3num = 21 #It will be an error
+      num2 = 12 #It will be fine
+->Python variables are case sensitive.
+Ex :- Num = 5
+      num = 5
+      Both Num and num are different variables.
+->Variables are created when they are attached to a value using '=' sign.
+Ex :- a = 3 #Variable a is created and assigned value 3 to it. 
