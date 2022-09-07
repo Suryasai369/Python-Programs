@@ -8,6 +8,13 @@ Ex :- In C,
       But in Python,
       x = 5 #No need to declare the type of variable, Python automatically recognizes what type of data is assigned.
 
+In languages like Java and C, onvce a variable has a type, you can only assign values of that type to it. But, in Python value is having the type than the variable.
+Ex :- In Python,
+      age = 34
+      age = "34 years" #Allowed
+      In C,
+      int age = 34;
+      int age = "34 years"; //It is not accepted in C as only integer type data is allowed to age.
 Rules for variable names :-
 ->Python variables must begin with letter(upper case or lower case) or an underscore(_).
 Ex :- greet = "hi"
@@ -21,4 +28,7 @@ Ex :- Num = 5
       num = 5
       Both Num and num are different variables.
 ->Variables are created when they are attached to a value using '=' sign.
-Ex :- a = 3 #Variable a is created and assigned value 3 to it. 
+Ex :- a = 3 #Variable a is created and give a value 3 to it. 
+
+Important note :-
+**In Python we should think as binding a value to a variable rather than assigning.
