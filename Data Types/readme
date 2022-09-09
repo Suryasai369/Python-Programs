@@ -7,3 +7,10 @@ Types of data types :-
 4.Mapping type -> dict
 5.Set type -> set
 6.Boolean type -> bool
+
+
+There are also user defined datatypes in python known as Non-Primitive datatypes.
+Types of Non-Primitve datatypes:-
+1.List -> A simple Array like datatype which holds more then one element irrespective of different primitive datatypes.
+2.Set -> Array like datatype which does not allow duplicates.
+3.Dictionary -> This datatype uses Keys and Values for holding the data.
